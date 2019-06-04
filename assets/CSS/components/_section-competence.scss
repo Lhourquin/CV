@@ -1,0 +1,17 @@
+.section-competence{
+    margin:30px;
+    text-align:center;
+    h1{
+        font-size: 2rem;
+        padding: 30px;
+        color: #6D8EA0;
+        &{
+            color: #1C7C54;
+        }
+    }
+    h2{
+        font-size:1.3rem;
+        padding: 20px;
+        color: #73E2A7;
+    }
+}
